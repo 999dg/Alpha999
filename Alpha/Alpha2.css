@@ -1,0 +1,79 @@
+body{
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#HeaderSection{
+    color: white;
+    display: flex;
+    justify-content: space-between
+}
+#HeaderSection h1{
+    font-size: 17px;
+}
+
+#HeaderSection div ul li button{
+    width: 90px;
+    height: 35px;
+    border-radius: 8px;
+    border: 2px solid whitesmoke;
+    color: white;
+    background-color: transparent;
+
+}
+
+#HeaderSection div h1 span{
+
+    font-weight: 100;
+}
+
+#HeaderSection div ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 30px;
+}
+#BodySection{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+#BodySection h1{
+    font-size: 60px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+#BodySection p{
+    font-size: 22px;
+    color: #ffffff;
+    
+}
+#BodySection button{
+    width: 200px;
+    height: 50px;
+    margin-top: 18px;
+}
+#BodySection #b1
+{
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid #94a6a9;
+    color: #717898;
+    margin-right: 21px;
+
+}
+#BodySection #b2
+{
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    
+}
+#contentSection div h1{
+    
+}
+
